@@ -1,0 +1,101 @@
+﻿id,difficulty,domain,spanish_text,english_text
+1,easy,frontend,El usuario hace clic en el boton de guardar,The user clicks the save button
+2,easy,frontend,La pagina muestra un mensaje de error simple,The page shows a simple error message
+3,easy,frontend,El formulario tiene un campo de correo obligatorio,The form has a required email field
+4,easy,frontend,El boton de enviar cambia de color al pasar el raton,The submit button changes color on hover
+5,easy,frontend,El menu principal se abre al hacer clic en el icono,The main menu opens when you click the icon
+6,easy,backend,La aplicacion guarda la sesion del usuario en memoria,The application stores the user session in memory
+7,easy,backend,La base de datos guarda la informacion del perfil,The database stores the profile information
+8,easy,backend,La API responde con una lista de usuarios activos,The API responds with a list of active users
+9,easy,backend,El servidor devuelve un codigo de estado exitoso,The server returns a successful status code
+10,easy,backend,El servicio valida la contrasena antes de iniciar sesion,The service validates the password before login
+11,easy,cloud,El sistema crea una copia de seguridad diaria,The system creates a daily backup
+12,easy,cloud,La aplicacion se ejecuta en una maquina virtual pequena,The application runs on a small virtual machine
+13,easy,cloud,El archivo se sube a un almacenamiento compartido,The file is uploaded to a shared storage
+14,easy,cloud,El servidor en la nube tiene un limite de memoria,The cloud server has a memory limit
+15,easy,cloud,La aplicacion se despliega en una sola region,The application is deployed in a single region
+16,easy,frontend,El usuario puede cerrar sesion desde la barra superior,The user can log out from the top bar
+17,easy,frontend,La pagina muestra un indicador de carga sencillo,The page shows a simple loading indicator
+18,easy,backend,La API registra cada inicio de sesion exitoso,The API logs each successful login
+19,easy,backend,El sistema envia un correo de bienvenida al registro,The system sends a welcome email on signup
+20,easy,cloud,La aplicacion en la nube usa una base de datos gestionada,The cloud application uses a managed database
+21,intermediate,frontend,El frontend consume una API que devuelve datos en formato JSON,The frontend consumes an API that returns data in JSON format
+22,intermediate,frontend,El desarrollador separa la logica de presentacion en componentes reutilizables,The developer splits the presentation logic into reusable components
+23,intermediate,frontend,La tabla se actualiza cuando cambia el estado global de la aplicacion,The table updates when the global application state changes
+24,intermediate,frontend,El disenador pide que los botones tengan el mismo ancho en escritorio,The designer asks that the buttons have the same width on desktop
+25,intermediate,frontend,La pagina usa un sistema de diseno responsivo para moviles y tabletas,The page uses a responsive design system for mobiles and tablets
+26,intermediate,backend,El backend expone un endpoint para actualizar el estado de un pedido,The backend exposes an endpoint to update the status of an order
+27,intermediate,backend,El servicio aplica reglas de negocio antes de guardar los datos,The service applies business rules before saving the data
+28,intermediate,backend,La capa de acceso a datos usa consultas preparadas para evitar errores,The data access layer uses prepared queries to avoid errors
+29,intermediate,backend,El microservicio de pagos registra cada transaccion en un historial,The payments microservice records each transaction in a history
+30,intermediate,backend,La API devuelve un error claro cuando falta un parametro requerido,The API returns a clear error when a required parameter is missing
+31,intermediate,cloud,La infraestructura en la nube escala horizontalmente cuando sube el trafico,The cloud infrastructure scales horizontally when the traffic increases
+32,intermediate,cloud,El balanceador de carga distribuye las peticiones entre varias instancias,The load balancer distributes the requests across several instances
+33,intermediate,cloud,El equipo configura monitoreo basico para revisar el uso de recursos,The team configures basic monitoring to check resource usage
+34,intermediate,cloud,El servicio en la nube usa variables de entorno para las credenciales,The cloud service uses environment variables for the credentials
+35,intermediate,cloud,La aplicacion se despliega automaticamente despues de cada fusion a main,The application is deployed automatically after each merge to main
+36,intermediate,frontend,El formulario valida que el correo tenga un formato correcto en tiempo real,The form validates that the email has a correct format in real time
+37,intermediate,frontend,La tabla de usuarios permite ordenar las filas por varias columnas,The users table allows sorting the rows by several columns
+38,intermediate,frontend,El componente de busqueda retrasa la llamada a la API unos segundos,The search component delays the API call for a few seconds
+39,intermediate,backend,El backend genera un token simple para mantener la sesion del usuario,The backend generates a simple token to keep the user session
+40,intermediate,backend,El microservicio de reportes tarda mas cuando hay muchos registros,The reports microservice takes longer when there are many records
+41,intermediate,cloud,La base de datos replica los datos en una instancia secundaria de lectura,The database replicates the data to a secondary read only instance
+42,intermediate,cloud,El sistema en la nube ejecuta tareas programadas cada noche,The cloud system runs scheduled tasks every night
+43,intermediate,cloud,El equipo define cuotas para limitar el numero de peticiones por usuario,The team defines quotas to limit the number of requests per user
+44,intermediate,frontend,El frontend muestra un mensaje si la conexion con el servidor falla,The frontend shows a message if the connection to the server fails
+45,intermediate,frontend,El usuario puede filtrar la lista por estado y por fecha de creacion,The user can filter the list by status and by creation date
+46,intermediate,backend,El backend transforma la informacion antes de enviarla al cliente,The backend transforms the information before sending it to the client
+47,intermediate,backend,El servicio de autenticacion invalida el token cuando el usuario cierra sesion,The authentication service invalidates the token when the user logs out
+48,intermediate,backend,La capa de dominio valida que el monto de la orden sea positivo,The domain layer validates that the order amount is positive
+49,intermediate,cloud,La aplicacion crea una cola simple para procesar tareas en segundo plano,The application creates a simple queue to process background tasks
+50,intermediate,cloud,El sistema en la nube guarda los archivos en un almacenamiento de objetos,The cloud system stores files in an object storage
+51,intermediate,frontend,El panel de control muestra metricas basicas de uso y rendimiento,The dashboard shows basic metrics of usage and performance
+52,intermediate,frontend,El usuario puede cambiar el idioma de la interfaz desde la configuracion,The user can change the interface language from the settings
+53,intermediate,backend,El servidor registra cada fallo en un archivo de logs centralizado,The server logs each failure in a centralized log file
+54,intermediate,backend,La API aplica limites de velocidad para protegerse de abusos,The API applies rate limits to protect itself from abuse
+55,intermediate,cloud,El sistema crea una nueva instancia cuando la carga supera un umbral,The system creates a new instance when the load passes a threshold
+56,intermediate,cloud,La aplicacion usa un cache en memoria para respuestas frecuentes,The application uses an in memory cache for frequent responses
+57,intermediate,cloud,El equipo configura alertas cuando el uso de CPU es demasiado alto,The team sets alerts when CPU usage is too high
+58,intermediate,frontend,El frontend muestra sugerencias mientras el usuario escribe en el buscador,The frontend shows suggestions while the user types in the search box
+59,intermediate,frontend,La pagina oculta campos avanzados para no confundir a los usuarios nuevos,The page hides advanced fields to avoid confusing new users
+60,intermediate,backend,El microservicio de notificaciones envia correos solo en horario laboral,The notifications microservice sends emails only during working hours
+61,advanced,frontend,El frontend usa renderizado del lado del servidor para mejorar el tiempo de carga inicial,The frontend uses server side rendering to improve the initial load time
+62,advanced,frontend,La aplicacion divide el codigo en paquetes para cargar solo los modulos necesarios en cada vista,The application splits the code into bundles to load only the modules needed in each view
+63,advanced,frontend,El equipo implementa internacionalizacion para soportar varios idiomas en todos los componentes de la interfaz,The team implements internationalization to support several languages across all interface components
+64,advanced,frontend,La pagina administra el estado complejo con una libreria centralizada y acciones bien definidas,The page manages complex state with a centralized library and well defined actions
+65,advanced,frontend,El formulario dinamico se construye a partir de un esquema de configuracion recibido desde el backend,The dynamic form is built from a configuration schema received from the backend
+66,advanced,backend,El backend implementa un patron de repositorio para separar la logica de negocio de la persistencia,The backend implements a repository pattern to separate business logic from persistence
+67,advanced,backend,El servicio de facturacion coordina varias transacciones en diferentes microservicios usando sagas,The billing service coordinates several transactions across different microservices using sagas
+68,advanced,backend,La API usa autenticacion basada en tokens firmados digitalmente para cada solicitud del cliente,The API uses authentication based on digitally signed tokens for each client request
+69,advanced,backend,El sistema aplica control de concurrencia optimista para evitar conflictos de escritura en la base de datos,The system applies optimistic concurrency control to avoid write conflicts in the database
+70,advanced,backend,El microservicio de inventario publica eventos cuando cambia la cantidad disponible de un producto,The inventory microservice publishes events when the available quantity of a product changes
+71,advanced,cloud,La arquitectura en la nube usa varias zonas de disponibilidad para mejorar la tolerancia a fallos,The cloud architecture uses multiple availability zones to improve fault tolerance
+72,advanced,cloud,El sistema distribuye la carga globalmente usando un balanceador de trafico entre regiones,The system distributes the global load using a traffic balancer across regions
+73,advanced,cloud,La plataforma configura auto escalado basado en metricas de uso como CPU memoria y latencia,The platform configures auto scaling based on usage metrics such as CPU memory and latency
+74,advanced,cloud,El equipo define infraestructura como codigo para versionar toda la configuracion del entorno,The team defines infrastructure as code to version all environment configuration
+75,advanced,cloud,El sistema ejecuta pruebas de carga periodicas para validar el rendimiento bajo alto trafico,The system runs periodic load tests to validate performance under high traffic
+76,advanced,frontend,El frontend usa tecnicas de memoizacion para evitar renders innecesarios en componentes costosos,The frontend uses memoization techniques to avoid unnecessary renders in expensive components
+77,advanced,frontend,La pagina aplica lazy loading de imagenes y recursos para optimizar el uso del ancho de banda,The page applies lazy loading of images and assets to optimize bandwidth usage
+78,advanced,frontend,El cliente web mantiene una conexion estable con el servidor mediante websockets para actualizaciones en tiempo real,The web client keeps a stable connection with the server through websockets for real time updates
+79,advanced,backend,El backend procesa trabajos intensivos en una cola distribuida para no bloquear las peticiones sincronas,The backend processes heavy jobs in a distributed queue to avoid blocking synchronous requests
+80,advanced,backend,La API valida esquemas de entrada y salida para garantizar contratos claros entre servicios,The API validates input and output schemas to guarantee clear contracts between services
+81,advanced,cloud,La base de datos usa particionamiento por rango para distribuir grandes volumenes de datos historicos,The database uses range partitioning to distribute large volumes of historical data
+82,advanced,cloud,El sistema en la nube cifra los datos en reposo y en transito con claves gestionadas,The cloud system encrypts data at rest and in transit with managed keys
+83,advanced,cloud,La plataforma usa un servicio de colas para desacoplar productores de eventos y consumidores,The platform uses a queue service to decouple event producers and consumers
+84,advanced,cloud,El equipo configura paneles avanzados de observabilidad con metricas logs y trazas distribuidas,The team sets up advanced observability dashboards with metrics logs and distributed traces
+85,advanced,cloud,El pipeline de integracion continua ejecuta pruebas unitarias de integracion y de contrato,The continuous integration pipeline runs unit integration and contract tests
+86,advanced,frontend,El frontend maneja errores globales mostrando notificaciones consistentes en toda la aplicacion,The frontend handles global errors by showing consistent notifications across the application
+87,advanced,frontend,La aplicacion aplica control de acceso basado en roles para limitar acciones en la interfaz,The application applies role based access control to limit actions in the interface
+88,advanced,backend,El backend expone endpoints versionados para soportar clientes antiguos y nuevos al mismo tiempo,The backend exposes versioned endpoints to support old and new clients at the same time
+89,advanced,backend,El servicio de auditoria registra eventos criticos con informacion de usuario y contexto de la solicitud,The audit service records critical events with user information and request context
+90,advanced,backend,La API implementa reintentos con retroceso exponencial cuando falla una llamada externa,The API implements retries with exponential backoff when an external call fails
+91,advanced,cloud,La solucion en la nube usa redes privadas para aislar servicios sensibles del trafico publico,The cloud solution uses private networks to isolate sensitive services from public traffic
+92,advanced,cloud,El sistema ejecuta despliegues azules y verdes para reducir el tiempo de inactividad,The system performs blue green deployments to reduce downtime
+93,advanced,cloud,La plataforma aplica politicas de retencion para eliminar datos antiguos de forma automatica,The platform applies retention policies to delete old data automatically
+94,advanced,backend,El equipo documenta los servicios con especificaciones legibles por maquinas para generar clientes,The team documents services with machine readable specifications to generate clients
+95,advanced,frontend,El frontend sincroniza el estado local con la cache del navegador para mejorar la experiencia offline,The frontend syncs local state with the browser cache to improve the offline experience
+96,advanced,backend,La aplicacion agrupa varias peticiones pequenas en una sola llamada para reducir la latencia,The application batches several small requests into a single call to reduce latency
+97,advanced,cloud,El sistema aplica limites estrictos de tiempo de respuesta para mantener acuerdos de servicio,The system applies strict response time limits to maintain service agreements
+98,advanced,backend,El backend expone eventos de dominio que otros microservicios pueden consumir de forma asincrona,The backend exposes domain events that other microservices can consume asynchronously
+99,advanced,cloud,El pipeline de despliegue aplica migraciones de base de datos antes de actualizar los servicios,The deployment pipeline applies database migrations before updating the services
+100,advanced,cloud,La arquitectura completa se revisa periodicamente para reducir deuda tecnica y riesgos operativos,The entire architecture is reviewed periodically to reduce technical debt and operational risks

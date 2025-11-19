@@ -1,0 +1,1958 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "domain": "frontend",
+    "spanishText": "El usuario hace clic en el boton de guardar",
+    "englishText": "The user clicks the save button",
+    "words": [
+      "The",
+      "user",
+      "clicks",
+      "the",
+      "save",
+      "button"
+    ]
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "domain": "frontend",
+    "spanishText": "La pagina muestra un mensaje de error simple",
+    "englishText": "The page shows a simple error message",
+    "words": [
+      "The",
+      "page",
+      "shows",
+      "a",
+      "simple",
+      "error",
+      "message"
+    ]
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "domain": "frontend",
+    "spanishText": "El formulario tiene un campo de correo obligatorio",
+    "englishText": "The form has a required email field",
+    "words": [
+      "The",
+      "form",
+      "has",
+      "a",
+      "required",
+      "email",
+      "field"
+    ]
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "domain": "frontend",
+    "spanishText": "El boton de enviar cambia de color al pasar el raton",
+    "englishText": "The submit button changes color on hover",
+    "words": [
+      "The",
+      "submit",
+      "button",
+      "changes",
+      "color",
+      "on",
+      "hover"
+    ]
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "domain": "frontend",
+    "spanishText": "El menu principal se abre al hacer clic en el icono",
+    "englishText": "The main menu opens when you click the icon",
+    "words": [
+      "The",
+      "main",
+      "menu",
+      "opens",
+      "when",
+      "you",
+      "click",
+      "the",
+      "icon"
+    ]
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "domain": "backend",
+    "spanishText": "La aplicacion guarda la sesion del usuario en memoria",
+    "englishText": "The application stores the user session in memory",
+    "words": [
+      "The",
+      "application",
+      "stores",
+      "the",
+      "user",
+      "session",
+      "in",
+      "memory"
+    ]
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "domain": "backend",
+    "spanishText": "La base de datos guarda la informacion del perfil",
+    "englishText": "The database stores the profile information",
+    "words": [
+      "The",
+      "database",
+      "stores",
+      "the",
+      "profile",
+      "information"
+    ]
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "domain": "backend",
+    "spanishText": "La API responde con una lista de usuarios activos",
+    "englishText": "The API responds with a list of active users",
+    "words": [
+      "The",
+      "API",
+      "responds",
+      "with",
+      "a",
+      "list",
+      "of",
+      "active",
+      "users"
+    ]
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "domain": "backend",
+    "spanishText": "El servidor devuelve un codigo de estado exitoso",
+    "englishText": "The server returns a successful status code",
+    "words": [
+      "The",
+      "server",
+      "returns",
+      "a",
+      "successful",
+      "status",
+      "code"
+    ]
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "domain": "backend",
+    "spanishText": "El servicio valida la contrasena antes de iniciar sesion",
+    "englishText": "The service validates the password before login",
+    "words": [
+      "The",
+      "service",
+      "validates",
+      "the",
+      "password",
+      "before",
+      "login"
+    ]
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "domain": "cloud",
+    "spanishText": "El sistema crea una copia de seguridad diaria",
+    "englishText": "The system creates a daily backup",
+    "words": [
+      "The",
+      "system",
+      "creates",
+      "a",
+      "daily",
+      "backup"
+    ]
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "domain": "cloud",
+    "spanishText": "La aplicacion se ejecuta en una maquina virtual pequena",
+    "englishText": "The application runs on a small virtual machine",
+    "words": [
+      "The",
+      "application",
+      "runs",
+      "on",
+      "a",
+      "small",
+      "virtual",
+      "machine"
+    ]
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "domain": "cloud",
+    "spanishText": "El archivo se sube a un almacenamiento compartido",
+    "englishText": "The file is uploaded to a shared storage",
+    "words": [
+      "The",
+      "file",
+      "is",
+      "uploaded",
+      "to",
+      "a",
+      "shared",
+      "storage"
+    ]
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "domain": "cloud",
+    "spanishText": "El servidor en la nube tiene un limite de memoria",
+    "englishText": "The cloud server has a memory limit",
+    "words": [
+      "The",
+      "cloud",
+      "server",
+      "has",
+      "a",
+      "memory",
+      "limit"
+    ]
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "domain": "cloud",
+    "spanishText": "La aplicacion se despliega en una sola region",
+    "englishText": "The application is deployed in a single region",
+    "words": [
+      "The",
+      "application",
+      "is",
+      "deployed",
+      "in",
+      "a",
+      "single",
+      "region"
+    ]
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "domain": "frontend",
+    "spanishText": "El usuario puede cerrar sesion desde la barra superior",
+    "englishText": "The user can log out from the top bar",
+    "words": [
+      "The",
+      "user",
+      "can",
+      "log",
+      "out",
+      "from",
+      "the",
+      "top",
+      "bar"
+    ]
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "domain": "frontend",
+    "spanishText": "La pagina muestra un indicador de carga sencillo",
+    "englishText": "The page shows a simple loading indicator",
+    "words": [
+      "The",
+      "page",
+      "shows",
+      "a",
+      "simple",
+      "loading",
+      "indicator"
+    ]
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "domain": "backend",
+    "spanishText": "La API registra cada inicio de sesion exitoso",
+    "englishText": "The API logs each successful login",
+    "words": [
+      "The",
+      "API",
+      "logs",
+      "each",
+      "successful",
+      "login"
+    ]
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "domain": "backend",
+    "spanishText": "El sistema envia un correo de bienvenida al registro",
+    "englishText": "The system sends a welcome email on signup",
+    "words": [
+      "The",
+      "system",
+      "sends",
+      "a",
+      "welcome",
+      "email",
+      "on",
+      "signup"
+    ]
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "domain": "cloud",
+    "spanishText": "La aplicacion en la nube usa una base de datos gestionada",
+    "englishText": "The cloud application uses a managed database",
+    "words": [
+      "The",
+      "cloud",
+      "application",
+      "uses",
+      "a",
+      "managed",
+      "database"
+    ]
+  },
+  {
+    "id": 21,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El frontend consume una API que devuelve datos en formato JSON",
+    "englishText": "The frontend consumes an API that returns data in JSON format",
+    "words": [
+      "The",
+      "frontend",
+      "consumes",
+      "an",
+      "API",
+      "that",
+      "returns",
+      "data",
+      "in",
+      "JSON",
+      "format"
+    ]
+  },
+  {
+    "id": 22,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El desarrollador separa la logica de presentacion en componentes reutilizables",
+    "englishText": "The developer splits the presentation logic into reusable components",
+    "words": [
+      "The",
+      "developer",
+      "splits",
+      "the",
+      "presentation",
+      "logic",
+      "into",
+      "reusable",
+      "components"
+    ]
+  },
+  {
+    "id": 23,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "La tabla se actualiza cuando cambia el estado global de la aplicacion",
+    "englishText": "The table updates when the global application state changes",
+    "words": [
+      "The",
+      "table",
+      "updates",
+      "when",
+      "the",
+      "global",
+      "application",
+      "state",
+      "changes"
+    ]
+  },
+  {
+    "id": 24,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El disenador pide que los botones tengan el mismo ancho en escritorio",
+    "englishText": "The designer asks that the buttons have the same width on desktop",
+    "words": [
+      "The",
+      "designer",
+      "asks",
+      "that",
+      "the",
+      "buttons",
+      "have",
+      "the",
+      "same",
+      "width",
+      "on",
+      "desktop"
+    ]
+  },
+  {
+    "id": 25,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "La pagina usa un sistema de diseno responsivo para moviles y tabletas",
+    "englishText": "The page uses a responsive design system for mobiles and tablets",
+    "words": [
+      "The",
+      "page",
+      "uses",
+      "a",
+      "responsive",
+      "design",
+      "system",
+      "for",
+      "mobiles",
+      "and",
+      "tablets"
+    ]
+  },
+  {
+    "id": 26,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "El backend expone un endpoint para actualizar el estado de un pedido",
+    "englishText": "The backend exposes an endpoint to update the status of an order",
+    "words": [
+      "The",
+      "backend",
+      "exposes",
+      "an",
+      "endpoint",
+      "to",
+      "update",
+      "the",
+      "status",
+      "of",
+      "an",
+      "order"
+    ]
+  },
+  {
+    "id": 27,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "El servicio aplica reglas de negocio antes de guardar los datos",
+    "englishText": "The service applies business rules before saving the data",
+    "words": [
+      "The",
+      "service",
+      "applies",
+      "business",
+      "rules",
+      "before",
+      "saving",
+      "the",
+      "data"
+    ]
+  },
+  {
+    "id": 28,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "La capa de acceso a datos usa consultas preparadas para evitar errores",
+    "englishText": "The data access layer uses prepared queries to avoid errors",
+    "words": [
+      "The",
+      "data",
+      "access",
+      "layer",
+      "uses",
+      "prepared",
+      "queries",
+      "to",
+      "avoid",
+      "errors"
+    ]
+  },
+  {
+    "id": 29,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "El microservicio de pagos registra cada transaccion en un historial",
+    "englishText": "The payments microservice records each transaction in a history",
+    "words": [
+      "The",
+      "payments",
+      "microservice",
+      "records",
+      "each",
+      "transaction",
+      "in",
+      "a",
+      "history"
+    ]
+  },
+  {
+    "id": 30,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "La API devuelve un error claro cuando falta un parametro requerido",
+    "englishText": "The API returns a clear error when a required parameter is missing",
+    "words": [
+      "The",
+      "API",
+      "returns",
+      "a",
+      "clear",
+      "error",
+      "when",
+      "a",
+      "required",
+      "parameter",
+      "is",
+      "missing"
+    ]
+  },
+  {
+    "id": 31,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "La infraestructura en la nube escala horizontalmente cuando sube el trafico",
+    "englishText": "The cloud infrastructure scales horizontally when the traffic increases",
+    "words": [
+      "The",
+      "cloud",
+      "infrastructure",
+      "scales",
+      "horizontally",
+      "when",
+      "the",
+      "traffic",
+      "increases"
+    ]
+  },
+  {
+    "id": 32,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "El balanceador de carga distribuye las peticiones entre varias instancias",
+    "englishText": "The load balancer distributes the requests across several instances",
+    "words": [
+      "The",
+      "load",
+      "balancer",
+      "distributes",
+      "the",
+      "requests",
+      "across",
+      "several",
+      "instances"
+    ]
+  },
+  {
+    "id": 33,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "El equipo configura monitoreo basico para revisar el uso de recursos",
+    "englishText": "The team configures basic monitoring to check resource usage",
+    "words": [
+      "The",
+      "team",
+      "configures",
+      "basic",
+      "monitoring",
+      "to",
+      "check",
+      "resource",
+      "usage"
+    ]
+  },
+  {
+    "id": 34,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "El servicio en la nube usa variables de entorno para las credenciales",
+    "englishText": "The cloud service uses environment variables for the credentials",
+    "words": [
+      "The",
+      "cloud",
+      "service",
+      "uses",
+      "environment",
+      "variables",
+      "for",
+      "the",
+      "credentials"
+    ]
+  },
+  {
+    "id": 35,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "La aplicacion se despliega automaticamente despues de cada fusion a main",
+    "englishText": "The application is deployed automatically after each merge to main",
+    "words": [
+      "The",
+      "application",
+      "is",
+      "deployed",
+      "automatically",
+      "after",
+      "each",
+      "merge",
+      "to",
+      "main"
+    ]
+  },
+  {
+    "id": 36,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El formulario valida que el correo tenga un formato correcto en tiempo real",
+    "englishText": "The form validates that the email has a correct format in real time",
+    "words": [
+      "The",
+      "form",
+      "validates",
+      "that",
+      "the",
+      "email",
+      "has",
+      "a",
+      "correct",
+      "format",
+      "in",
+      "real",
+      "time"
+    ]
+  },
+  {
+    "id": 37,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "La tabla de usuarios permite ordenar las filas por varias columnas",
+    "englishText": "The users table allows sorting the rows by several columns",
+    "words": [
+      "The",
+      "users",
+      "table",
+      "allows",
+      "sorting",
+      "the",
+      "rows",
+      "by",
+      "several",
+      "columns"
+    ]
+  },
+  {
+    "id": 38,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El componente de busqueda retrasa la llamada a la API unos segundos",
+    "englishText": "The search component delays the API call for a few seconds",
+    "words": [
+      "The",
+      "search",
+      "component",
+      "delays",
+      "the",
+      "API",
+      "call",
+      "for",
+      "a",
+      "few",
+      "seconds"
+    ]
+  },
+  {
+    "id": 39,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "El backend genera un token simple para mantener la sesion del usuario",
+    "englishText": "The backend generates a simple token to keep the user session",
+    "words": [
+      "The",
+      "backend",
+      "generates",
+      "a",
+      "simple",
+      "token",
+      "to",
+      "keep",
+      "the",
+      "user",
+      "session"
+    ]
+  },
+  {
+    "id": 40,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "El microservicio de reportes tarda mas cuando hay muchos registros",
+    "englishText": "The reports microservice takes longer when there are many records",
+    "words": [
+      "The",
+      "reports",
+      "microservice",
+      "takes",
+      "longer",
+      "when",
+      "there",
+      "are",
+      "many",
+      "records"
+    ]
+  },
+  {
+    "id": 41,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "La base de datos replica los datos en una instancia secundaria de lectura",
+    "englishText": "The database replicates the data to a secondary read only instance",
+    "words": [
+      "The",
+      "database",
+      "replicates",
+      "the",
+      "data",
+      "to",
+      "a",
+      "secondary",
+      "read",
+      "only",
+      "instance"
+    ]
+  },
+  {
+    "id": 42,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "El sistema en la nube ejecuta tareas programadas cada noche",
+    "englishText": "The cloud system runs scheduled tasks every night",
+    "words": [
+      "The",
+      "cloud",
+      "system",
+      "runs",
+      "scheduled",
+      "tasks",
+      "every",
+      "night"
+    ]
+  },
+  {
+    "id": 43,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "El equipo define cuotas para limitar el numero de peticiones por usuario",
+    "englishText": "The team defines quotas to limit the number of requests per user",
+    "words": [
+      "The",
+      "team",
+      "defines",
+      "quotas",
+      "to",
+      "limit",
+      "the",
+      "number",
+      "of",
+      "requests",
+      "per",
+      "user"
+    ]
+  },
+  {
+    "id": 44,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El frontend muestra un mensaje si la conexion con el servidor falla",
+    "englishText": "The frontend shows a message if the connection to the server fails",
+    "words": [
+      "The",
+      "frontend",
+      "shows",
+      "a",
+      "message",
+      "if",
+      "the",
+      "connection",
+      "to",
+      "the",
+      "server",
+      "fails"
+    ]
+  },
+  {
+    "id": 45,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El usuario puede filtrar la lista por estado y por fecha de creacion",
+    "englishText": "The user can filter the list by status and by creation date",
+    "words": [
+      "The",
+      "user",
+      "can",
+      "filter",
+      "the",
+      "list",
+      "by",
+      "status",
+      "and",
+      "by",
+      "creation",
+      "date"
+    ]
+  },
+  {
+    "id": 46,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "El backend transforma la informacion antes de enviarla al cliente",
+    "englishText": "The backend transforms the information before sending it to the client",
+    "words": [
+      "The",
+      "backend",
+      "transforms",
+      "the",
+      "information",
+      "before",
+      "sending",
+      "it",
+      "to",
+      "the",
+      "client"
+    ]
+  },
+  {
+    "id": 47,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "El servicio de autenticacion invalida el token cuando el usuario cierra sesion",
+    "englishText": "The authentication service invalidates the token when the user logs out",
+    "words": [
+      "The",
+      "authentication",
+      "service",
+      "invalidates",
+      "the",
+      "token",
+      "when",
+      "the",
+      "user",
+      "logs",
+      "out"
+    ]
+  },
+  {
+    "id": 48,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "La capa de dominio valida que el monto de la orden sea positivo",
+    "englishText": "The domain layer validates that the order amount is positive",
+    "words": [
+      "The",
+      "domain",
+      "layer",
+      "validates",
+      "that",
+      "the",
+      "order",
+      "amount",
+      "is",
+      "positive"
+    ]
+  },
+  {
+    "id": 49,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "La aplicacion crea una cola simple para procesar tareas en segundo plano",
+    "englishText": "The application creates a simple queue to process background tasks",
+    "words": [
+      "The",
+      "application",
+      "creates",
+      "a",
+      "simple",
+      "queue",
+      "to",
+      "process",
+      "background",
+      "tasks"
+    ]
+  },
+  {
+    "id": 50,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "El sistema en la nube guarda los archivos en un almacenamiento de objetos",
+    "englishText": "The cloud system stores files in an object storage",
+    "words": [
+      "The",
+      "cloud",
+      "system",
+      "stores",
+      "files",
+      "in",
+      "an",
+      "object",
+      "storage"
+    ]
+  },
+  {
+    "id": 51,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El panel de control muestra metricas basicas de uso y rendimiento",
+    "englishText": "The dashboard shows basic metrics of usage and performance",
+    "words": [
+      "The",
+      "dashboard",
+      "shows",
+      "basic",
+      "metrics",
+      "of",
+      "usage",
+      "and",
+      "performance"
+    ]
+  },
+  {
+    "id": 52,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El usuario puede cambiar el idioma de la interfaz desde la configuracion",
+    "englishText": "The user can change the interface language from the settings",
+    "words": [
+      "The",
+      "user",
+      "can",
+      "change",
+      "the",
+      "interface",
+      "language",
+      "from",
+      "the",
+      "settings"
+    ]
+  },
+  {
+    "id": 53,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "El servidor registra cada fallo en un archivo de logs centralizado",
+    "englishText": "The server logs each failure in a centralized log file",
+    "words": [
+      "The",
+      "server",
+      "logs",
+      "each",
+      "failure",
+      "in",
+      "a",
+      "centralized",
+      "log",
+      "file"
+    ]
+  },
+  {
+    "id": 54,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "La API aplica limites de velocidad para protegerse de abusos",
+    "englishText": "The API applies rate limits to protect itself from abuse",
+    "words": [
+      "The",
+      "API",
+      "applies",
+      "rate",
+      "limits",
+      "to",
+      "protect",
+      "itself",
+      "from",
+      "abuse"
+    ]
+  },
+  {
+    "id": 55,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "El sistema crea una nueva instancia cuando la carga supera un umbral",
+    "englishText": "The system creates a new instance when the load passes a threshold",
+    "words": [
+      "The",
+      "system",
+      "creates",
+      "a",
+      "new",
+      "instance",
+      "when",
+      "the",
+      "load",
+      "passes",
+      "a",
+      "threshold"
+    ]
+  },
+  {
+    "id": 56,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "La aplicacion usa un cache en memoria para respuestas frecuentes",
+    "englishText": "The application uses an in memory cache for frequent responses",
+    "words": [
+      "The",
+      "application",
+      "uses",
+      "an",
+      "in",
+      "memory",
+      "cache",
+      "for",
+      "frequent",
+      "responses"
+    ]
+  },
+  {
+    "id": 57,
+    "difficulty": "intermediate",
+    "domain": "cloud",
+    "spanishText": "El equipo configura alertas cuando el uso de CPU es demasiado alto",
+    "englishText": "The team sets alerts when CPU usage is too high",
+    "words": [
+      "The",
+      "team",
+      "sets",
+      "alerts",
+      "when",
+      "CPU",
+      "usage",
+      "is",
+      "too",
+      "high"
+    ]
+  },
+  {
+    "id": 58,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "El frontend muestra sugerencias mientras el usuario escribe en el buscador",
+    "englishText": "The frontend shows suggestions while the user types in the search box",
+    "words": [
+      "The",
+      "frontend",
+      "shows",
+      "suggestions",
+      "while",
+      "the",
+      "user",
+      "types",
+      "in",
+      "the",
+      "search",
+      "box"
+    ]
+  },
+  {
+    "id": 59,
+    "difficulty": "intermediate",
+    "domain": "frontend",
+    "spanishText": "La pagina oculta campos avanzados para no confundir a los usuarios nuevos",
+    "englishText": "The page hides advanced fields to avoid confusing new users",
+    "words": [
+      "The",
+      "page",
+      "hides",
+      "advanced",
+      "fields",
+      "to",
+      "avoid",
+      "confusing",
+      "new",
+      "users"
+    ]
+  },
+  {
+    "id": 60,
+    "difficulty": "intermediate",
+    "domain": "backend",
+    "spanishText": "El microservicio de notificaciones envia correos solo en horario laboral",
+    "englishText": "The notifications microservice sends emails only during working hours",
+    "words": [
+      "The",
+      "notifications",
+      "microservice",
+      "sends",
+      "emails",
+      "only",
+      "during",
+      "working",
+      "hours"
+    ]
+  },
+  {
+    "id": 61,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "El frontend usa renderizado del lado del servidor para mejorar el tiempo de carga inicial",
+    "englishText": "The frontend uses server side rendering to improve the initial load time",
+    "words": [
+      "The",
+      "frontend",
+      "uses",
+      "server",
+      "side",
+      "rendering",
+      "to",
+      "improve",
+      "the",
+      "initial",
+      "load",
+      "time"
+    ]
+  },
+  {
+    "id": 62,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "La aplicacion divide el codigo en paquetes para cargar solo los modulos necesarios en cada vista",
+    "englishText": "The application splits the code into bundles to load only the modules needed in each view",
+    "words": [
+      "The",
+      "application",
+      "splits",
+      "the",
+      "code",
+      "into",
+      "bundles",
+      "to",
+      "load",
+      "only",
+      "the",
+      "modules",
+      "needed",
+      "in",
+      "each",
+      "view"
+    ]
+  },
+  {
+    "id": 63,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "El equipo implementa internacionalizacion para soportar varios idiomas en todos los componentes de la interfaz",
+    "englishText": "The team implements internationalization to support several languages across all interface components",
+    "words": [
+      "The",
+      "team",
+      "implements",
+      "internationalization",
+      "to",
+      "support",
+      "several",
+      "languages",
+      "across",
+      "all",
+      "interface",
+      "components"
+    ]
+  },
+  {
+    "id": 64,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "La pagina administra el estado complejo con una libreria centralizada y acciones bien definidas",
+    "englishText": "The page manages complex state with a centralized library and well defined actions",
+    "words": [
+      "The",
+      "page",
+      "manages",
+      "complex",
+      "state",
+      "with",
+      "a",
+      "centralized",
+      "library",
+      "and",
+      "well",
+      "defined",
+      "actions"
+    ]
+  },
+  {
+    "id": 65,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "El formulario dinamico se construye a partir de un esquema de configuracion recibido desde el backend",
+    "englishText": "The dynamic form is built from a configuration schema received from the backend",
+    "words": [
+      "The",
+      "dynamic",
+      "form",
+      "is",
+      "built",
+      "from",
+      "a",
+      "configuration",
+      "schema",
+      "received",
+      "from",
+      "the",
+      "backend"
+    ]
+  },
+  {
+    "id": 66,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "El backend implementa un patron de repositorio para separar la logica de negocio de la persistencia",
+    "englishText": "The backend implements a repository pattern to separate business logic from persistence",
+    "words": [
+      "The",
+      "backend",
+      "implements",
+      "a",
+      "repository",
+      "pattern",
+      "to",
+      "separate",
+      "business",
+      "logic",
+      "from",
+      "persistence"
+    ]
+  },
+  {
+    "id": 67,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "El servicio de facturacion coordina varias transacciones en diferentes microservicios usando sagas",
+    "englishText": "The billing service coordinates several transactions across different microservices using sagas",
+    "words": [
+      "The",
+      "billing",
+      "service",
+      "coordinates",
+      "several",
+      "transactions",
+      "across",
+      "different",
+      "microservices",
+      "using",
+      "sagas"
+    ]
+  },
+  {
+    "id": 68,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "La API usa autenticacion basada en tokens firmados digitalmente para cada solicitud del cliente",
+    "englishText": "The API uses authentication based on digitally signed tokens for each client request",
+    "words": [
+      "The",
+      "API",
+      "uses",
+      "authentication",
+      "based",
+      "on",
+      "digitally",
+      "signed",
+      "tokens",
+      "for",
+      "each",
+      "client",
+      "request"
+    ]
+  },
+  {
+    "id": 69,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "El sistema aplica control de concurrencia optimista para evitar conflictos de escritura en la base de datos",
+    "englishText": "The system applies optimistic concurrency control to avoid write conflicts in the database",
+    "words": [
+      "The",
+      "system",
+      "applies",
+      "optimistic",
+      "concurrency",
+      "control",
+      "to",
+      "avoid",
+      "write",
+      "conflicts",
+      "in",
+      "the",
+      "database"
+    ]
+  },
+  {
+    "id": 70,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "El microservicio de inventario publica eventos cuando cambia la cantidad disponible de un producto",
+    "englishText": "The inventory microservice publishes events when the available quantity of a product changes",
+    "words": [
+      "The",
+      "inventory",
+      "microservice",
+      "publishes",
+      "events",
+      "when",
+      "the",
+      "available",
+      "quantity",
+      "of",
+      "a",
+      "product",
+      "changes"
+    ]
+  },
+  {
+    "id": 71,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "La arquitectura en la nube usa varias zonas de disponibilidad para mejorar la tolerancia a fallos",
+    "englishText": "The cloud architecture uses multiple availability zones to improve fault tolerance",
+    "words": [
+      "The",
+      "cloud",
+      "architecture",
+      "uses",
+      "multiple",
+      "availability",
+      "zones",
+      "to",
+      "improve",
+      "fault",
+      "tolerance"
+    ]
+  },
+  {
+    "id": 72,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "El sistema distribuye la carga globalmente usando un balanceador de trafico entre regiones",
+    "englishText": "The system distributes the global load using a traffic balancer across regions",
+    "words": [
+      "The",
+      "system",
+      "distributes",
+      "the",
+      "global",
+      "load",
+      "using",
+      "a",
+      "traffic",
+      "balancer",
+      "across",
+      "regions"
+    ]
+  },
+  {
+    "id": 73,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "La plataforma configura auto escalado basado en metricas de uso como CPU memoria y latencia",
+    "englishText": "The platform configures auto scaling based on usage metrics such as CPU memory and latency",
+    "words": [
+      "The",
+      "platform",
+      "configures",
+      "auto",
+      "scaling",
+      "based",
+      "on",
+      "usage",
+      "metrics",
+      "such",
+      "as",
+      "CPU",
+      "memory",
+      "and",
+      "latency"
+    ]
+  },
+  {
+    "id": 74,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "El equipo define infraestructura como codigo para versionar toda la configuracion del entorno",
+    "englishText": "The team defines infrastructure as code to version all environment configuration",
+    "words": [
+      "The",
+      "team",
+      "defines",
+      "infrastructure",
+      "as",
+      "code",
+      "to",
+      "version",
+      "all",
+      "environment",
+      "configuration"
+    ]
+  },
+  {
+    "id": 75,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "El sistema ejecuta pruebas de carga periodicas para validar el rendimiento bajo alto trafico",
+    "englishText": "The system runs periodic load tests to validate performance under high traffic",
+    "words": [
+      "The",
+      "system",
+      "runs",
+      "periodic",
+      "load",
+      "tests",
+      "to",
+      "validate",
+      "performance",
+      "under",
+      "high",
+      "traffic"
+    ]
+  },
+  {
+    "id": 76,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "El frontend usa tecnicas de memoizacion para evitar renders innecesarios en componentes costosos",
+    "englishText": "The frontend uses memoization techniques to avoid unnecessary renders in expensive components",
+    "words": [
+      "The",
+      "frontend",
+      "uses",
+      "memoization",
+      "techniques",
+      "to",
+      "avoid",
+      "unnecessary",
+      "renders",
+      "in",
+      "expensive",
+      "components"
+    ]
+  },
+  {
+    "id": 77,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "La pagina aplica lazy loading de imagenes y recursos para optimizar el uso del ancho de banda",
+    "englishText": "The page applies lazy loading of images and assets to optimize bandwidth usage",
+    "words": [
+      "The",
+      "page",
+      "applies",
+      "lazy",
+      "loading",
+      "of",
+      "images",
+      "and",
+      "assets",
+      "to",
+      "optimize",
+      "bandwidth",
+      "usage"
+    ]
+  },
+  {
+    "id": 78,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "El cliente web mantiene una conexion estable con el servidor mediante websockets para actualizaciones en tiempo real",
+    "englishText": "The web client keeps a stable connection with the server through websockets for real time updates",
+    "words": [
+      "The",
+      "web",
+      "client",
+      "keeps",
+      "a",
+      "stable",
+      "connection",
+      "with",
+      "the",
+      "server",
+      "through",
+      "websockets",
+      "for",
+      "real",
+      "time",
+      "updates"
+    ]
+  },
+  {
+    "id": 79,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "El backend procesa trabajos intensivos en una cola distribuida para no bloquear las peticiones sincronas",
+    "englishText": "The backend processes heavy jobs in a distributed queue to avoid blocking synchronous requests",
+    "words": [
+      "The",
+      "backend",
+      "processes",
+      "heavy",
+      "jobs",
+      "in",
+      "a",
+      "distributed",
+      "queue",
+      "to",
+      "avoid",
+      "blocking",
+      "synchronous",
+      "requests"
+    ]
+  },
+  {
+    "id": 80,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "La API valida esquemas de entrada y salida para garantizar contratos claros entre servicios",
+    "englishText": "The API validates input and output schemas to guarantee clear contracts between services",
+    "words": [
+      "The",
+      "API",
+      "validates",
+      "input",
+      "and",
+      "output",
+      "schemas",
+      "to",
+      "guarantee",
+      "clear",
+      "contracts",
+      "between",
+      "services"
+    ]
+  },
+  {
+    "id": 81,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "La base de datos usa particionamiento por rango para distribuir grandes volumenes de datos historicos",
+    "englishText": "The database uses range partitioning to distribute large volumes of historical data",
+    "words": [
+      "The",
+      "database",
+      "uses",
+      "range",
+      "partitioning",
+      "to",
+      "distribute",
+      "large",
+      "volumes",
+      "of",
+      "historical",
+      "data"
+    ]
+  },
+  {
+    "id": 82,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "El sistema en la nube cifra los datos en reposo y en transito con claves gestionadas",
+    "englishText": "The cloud system encrypts data at rest and in transit with managed keys",
+    "words": [
+      "The",
+      "cloud",
+      "system",
+      "encrypts",
+      "data",
+      "at",
+      "rest",
+      "and",
+      "in",
+      "transit",
+      "with",
+      "managed",
+      "keys"
+    ]
+  },
+  {
+    "id": 83,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "La plataforma usa un servicio de colas para desacoplar productores de eventos y consumidores",
+    "englishText": "The platform uses a queue service to decouple event producers and consumers",
+    "words": [
+      "The",
+      "platform",
+      "uses",
+      "a",
+      "queue",
+      "service",
+      "to",
+      "decouple",
+      "event",
+      "producers",
+      "and",
+      "consumers"
+    ]
+  },
+  {
+    "id": 84,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "El equipo configura paneles avanzados de observabilidad con metricas logs y trazas distribuidas",
+    "englishText": "The team sets up advanced observability dashboards with metrics logs and distributed traces",
+    "words": [
+      "The",
+      "team",
+      "sets",
+      "up",
+      "advanced",
+      "observability",
+      "dashboards",
+      "with",
+      "metrics",
+      "logs",
+      "and",
+      "distributed",
+      "traces"
+    ]
+  },
+  {
+    "id": 85,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "El pipeline de integracion continua ejecuta pruebas unitarias de integracion y de contrato",
+    "englishText": "The continuous integration pipeline runs unit integration and contract tests",
+    "words": [
+      "The",
+      "continuous",
+      "integration",
+      "pipeline",
+      "runs",
+      "unit",
+      "integration",
+      "and",
+      "contract",
+      "tests"
+    ]
+  },
+  {
+    "id": 86,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "El frontend maneja errores globales mostrando notificaciones consistentes en toda la aplicacion",
+    "englishText": "The frontend handles global errors by showing consistent notifications across the application",
+    "words": [
+      "The",
+      "frontend",
+      "handles",
+      "global",
+      "errors",
+      "by",
+      "showing",
+      "consistent",
+      "notifications",
+      "across",
+      "the",
+      "application"
+    ]
+  },
+  {
+    "id": 87,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "La aplicacion aplica control de acceso basado en roles para limitar acciones en la interfaz",
+    "englishText": "The application applies role based access control to limit actions in the interface",
+    "words": [
+      "The",
+      "application",
+      "applies",
+      "role",
+      "based",
+      "access",
+      "control",
+      "to",
+      "limit",
+      "actions",
+      "in",
+      "the",
+      "interface"
+    ]
+  },
+  {
+    "id": 88,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "El backend expone endpoints versionados para soportar clientes antiguos y nuevos al mismo tiempo",
+    "englishText": "The backend exposes versioned endpoints to support old and new clients at the same time",
+    "words": [
+      "The",
+      "backend",
+      "exposes",
+      "versioned",
+      "endpoints",
+      "to",
+      "support",
+      "old",
+      "and",
+      "new",
+      "clients",
+      "at",
+      "the",
+      "same",
+      "time"
+    ]
+  },
+  {
+    "id": 89,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "El servicio de auditoria registra eventos criticos con informacion de usuario y contexto de la solicitud",
+    "englishText": "The audit service records critical events with user information and request context",
+    "words": [
+      "The",
+      "audit",
+      "service",
+      "records",
+      "critical",
+      "events",
+      "with",
+      "user",
+      "information",
+      "and",
+      "request",
+      "context"
+    ]
+  },
+  {
+    "id": 90,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "La API implementa reintentos con retroceso exponencial cuando falla una llamada externa",
+    "englishText": "The API implements retries with exponential backoff when an external call fails",
+    "words": [
+      "The",
+      "API",
+      "implements",
+      "retries",
+      "with",
+      "exponential",
+      "backoff",
+      "when",
+      "an",
+      "external",
+      "call",
+      "fails"
+    ]
+  },
+  {
+    "id": 91,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "La solucion en la nube usa redes privadas para aislar servicios sensibles del trafico publico",
+    "englishText": "The cloud solution uses private networks to isolate sensitive services from public traffic",
+    "words": [
+      "The",
+      "cloud",
+      "solution",
+      "uses",
+      "private",
+      "networks",
+      "to",
+      "isolate",
+      "sensitive",
+      "services",
+      "from",
+      "public",
+      "traffic"
+    ]
+  },
+  {
+    "id": 92,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "El sistema ejecuta despliegues azules y verdes para reducir el tiempo de inactividad",
+    "englishText": "The system performs blue green deployments to reduce downtime",
+    "words": [
+      "The",
+      "system",
+      "performs",
+      "blue",
+      "green",
+      "deployments",
+      "to",
+      "reduce",
+      "downtime"
+    ]
+  },
+  {
+    "id": 93,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "La plataforma aplica politicas de retencion para eliminar datos antiguos de forma automatica",
+    "englishText": "The platform applies retention policies to delete old data automatically",
+    "words": [
+      "The",
+      "platform",
+      "applies",
+      "retention",
+      "policies",
+      "to",
+      "delete",
+      "old",
+      "data",
+      "automatically"
+    ]
+  },
+  {
+    "id": 94,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "El equipo documenta los servicios con especificaciones legibles por maquinas para generar clientes",
+    "englishText": "The team documents services with machine readable specifications to generate clients",
+    "words": [
+      "The",
+      "team",
+      "documents",
+      "services",
+      "with",
+      "machine",
+      "readable",
+      "specifications",
+      "to",
+      "generate",
+      "clients"
+    ]
+  },
+  {
+    "id": 95,
+    "difficulty": "advanced",
+    "domain": "frontend",
+    "spanishText": "El frontend sincroniza el estado local con la cache del navegador para mejorar la experiencia offline",
+    "englishText": "The frontend syncs local state with the browser cache to improve the offline experience",
+    "words": [
+      "The",
+      "frontend",
+      "syncs",
+      "local",
+      "state",
+      "with",
+      "the",
+      "browser",
+      "cache",
+      "to",
+      "improve",
+      "the",
+      "offline",
+      "experience"
+    ]
+  },
+  {
+    "id": 96,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "La aplicacion agrupa varias peticiones pequenas en una sola llamada para reducir la latencia",
+    "englishText": "The application batches several small requests into a single call to reduce latency",
+    "words": [
+      "The",
+      "application",
+      "batches",
+      "several",
+      "small",
+      "requests",
+      "into",
+      "a",
+      "single",
+      "call",
+      "to",
+      "reduce",
+      "latency"
+    ]
+  },
+  {
+    "id": 97,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "El sistema aplica limites estrictos de tiempo de respuesta para mantener acuerdos de servicio",
+    "englishText": "The system applies strict response time limits to maintain service agreements",
+    "words": [
+      "The",
+      "system",
+      "applies",
+      "strict",
+      "response",
+      "time",
+      "limits",
+      "to",
+      "maintain",
+      "service",
+      "agreements"
+    ]
+  },
+  {
+    "id": 98,
+    "difficulty": "advanced",
+    "domain": "backend",
+    "spanishText": "El backend expone eventos de dominio que otros microservicios pueden consumir de forma asincrona",
+    "englishText": "The backend exposes domain events that other microservices can consume asynchronously",
+    "words": [
+      "The",
+      "backend",
+      "exposes",
+      "domain",
+      "events",
+      "that",
+      "other",
+      "microservices",
+      "can",
+      "consume",
+      "asynchronously"
+    ]
+  },
+  {
+    "id": 99,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "El pipeline de despliegue aplica migraciones de base de datos antes de actualizar los servicios",
+    "englishText": "The deployment pipeline applies database migrations before updating the services",
+    "words": [
+      "The",
+      "deployment",
+      "pipeline",
+      "applies",
+      "database",
+      "migrations",
+      "before",
+      "updating",
+      "the",
+      "services"
+    ]
+  },
+  {
+    "id": 100,
+    "difficulty": "advanced",
+    "domain": "cloud",
+    "spanishText": "La arquitectura completa se revisa periodicamente para reducir deuda tecnica y riesgos operativos",
+    "englishText": "The entire architecture is reviewed periodically to reduce technical debt and operational risks",
+    "words": [
+      "The",
+      "entire",
+      "architecture",
+      "is",
+      "reviewed",
+      "periodically",
+      "to",
+      "reduce",
+      "technical",
+      "debt",
+      "and",
+      "operational",
+      "risks"
+    ]
+  }
+]
