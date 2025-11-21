@@ -4,7 +4,7 @@ export const INITIAL_LIVES = 5
 export const PLAYER_SPEED = 0.005
 export const BULLET_SPEED = 0.02
 
-export const FALL_DURATION = 12000 // ms
+export const FALL_DURATION = 16000 // ms
 export const SPAWN_INTERVAL = 1700 // ms
 export const UPDATE_INTERVAL = 16 // ms
 

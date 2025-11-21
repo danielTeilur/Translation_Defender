@@ -359,6 +359,21 @@ function App() {
         </p>
       </div>
 
+      <div className="controls-panel">
+        <h2 className="controls-title">Controls</h2>
+        <ul className="controls-list">
+          <li>
+            <strong>Move:</strong> A / D or ← / →
+          </li>
+          <li>
+            <strong>Green (K):</strong> confirm the next correct word
+          </li>
+          <li>
+            <strong>Red (L):</strong> remove boxes (3 hits to clear)
+          </li>
+        </ul>
+      </div>
+
       <div className="lives-section">
         <div className="lives-counter">Lives: {lives}</div>
         <div className="score-counter">Score: {score}</div>
